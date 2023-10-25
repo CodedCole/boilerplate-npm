@@ -1,7 +1,7 @@
 {
 	"author": "Hayden Dewey",
 	"description": "A project used as an introduction to back-end development",
-	"keywords": ["learning","introduction","back-end","freeCodeCamp"],
+	"keywords": ["learning","introduction","back-end","freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
